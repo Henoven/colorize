@@ -32,4 +32,4 @@ pip install opencv-python<br />
 5. ¡Listo! La imagen ahora tiene color.<br />
 
 ##  Ejemplos de uso:
-![image](https://user-images.githubusercontent.com/75276451/119412306-4bb02380-bcb1-11eb-8afc-256392eb024e.png) ![image](https://user-images.githubusercontent.com/75276451/119409410-e35f4300-bcac-11eb-881b-eb8fdb144150.png) ![image](https://user-images.githubusercontent.com/75276451/119412452-84e89380-bcb1-11eb-8215-6f6bc62176e9.png)
+![image](https://github.com/Henoven/colorize/blob/main/Resultados/Res_Africa1.png) ![image](https://github.com/Henoven/colorize/blob/main/Resultados/Paisaje.png) ![image](https://github.com/Henoven/colorize/blob/main/Resultados/Res_Villa.png)
