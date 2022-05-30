@@ -9,7 +9,7 @@ Robótica Industrial, Enero-Mayo 2022<br />
 **Del profesor:**<br />
 Dr. Michel Emanuel López Franco<br />
 
-![image](https://user-images.githubusercontent.com/75276451/119406751-d6405500-bca8-11eb-8dd3-9c66b2d0cb48.png)
+![image](https://github.com/Henoven/colorize/blob/main/LOGO%20UP%20ROBLE%20REDU.png)
 
 ## Acerca De
 
